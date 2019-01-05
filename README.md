@@ -22,6 +22,7 @@
 | 20 | | PCE16CE088 | Sakshi Agarwal ||
 | 21 | | PCE16CE104 | Suraj Kumar ||
 | 22 | | PCE16CE301 | Mohit Agarwal ||
+| 23 | | PCE16CE030 | Chahat Jain ||
 
 ## Wild Card
 
